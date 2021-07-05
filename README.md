@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hypernik
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ASP.NEt
-- 💞️ I’m looking to collaborate on Anything I can help with
+- 🌱 I’m currently learning ASP.NET
+- 💞️ I’m looking to collaborate on Django, ASP.NET
 - 📫 How to reach me [Hypernik](https://github.com/Hypernik)
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hypernik
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Redux
+- 👀 I’m interested in Laravel & React
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on React, Node.js, Laravel
 - 📫 How to reach me [Hypernik](https://github.com/Hypernik)
 
